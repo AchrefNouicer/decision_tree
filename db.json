@@ -1,19 +1,31 @@
 {
-[
+  "posts": [
     {
-        "name": "Sol1",
-        "pourcentage": "50%",
-        "somme": "25.000"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-        "name": "Sol2",
-        "pourcentage": "25%",
-        "somme": "12.500"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-        "name": "Sol3",
-        "pourcentage": "25%",
-        "somme": "12.500"
+      "id": 3,
+      "title": "Post 3"
     }
-]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
