@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sol1",
+        "pourcentage": "50%",
+        "somme": "25.000"
+    },
+    {
+        "name": "Sol2",
+        "pourcentage": "25%",
+        "somme": "12.500"
+    },
+    {
+        "name": "Sol3",
+        "pourcentage": "25%",
+        "somme": "12.500"
+    }
+]
